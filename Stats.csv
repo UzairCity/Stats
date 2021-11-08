@@ -1,35 +1,63 @@
-﻿Borough,Crime,Poverty
-Barking and Dagenham,21189,59359
-Barnet,31911,91043
-Bexley,18323,39561
-Bromley,31275,49664
-Camden,25802,83912
-Croydon,38530,84776
-Ealing,32841,100002
-Enfield,32080,91314
-Greenwich,30019,74408
-Hackney,34510,100679
-Hammersmith and Fulham,23360,57482
-Haringey,32818,92012
-Harrow,17909,57534
-Havering,19185,43827
-Hillingdon,28616,67061
-Hounslow,27920,67695
-Islington,30392,81308
-Kensington and Chelsea,24303,43735
-Kingston upon Thames,13221,31584
-Lambeth,36265,98472
-Lewisham,30534,78919
-Merton,15181,41273
-Newham,37107,120251
-Redbridge,25402,75964
-Richmond upon Thames,13413,29535
-Southwark,38790,98349
-Sutton,14871,32724
-Tower Hamlets,35475,124730
-Waltham Forest,25947,77476
-Wandsworth,27261,72039
-Westminster,73603,75941
-,,
-,,
-,,
+﻿Borough,Number,Type
+Barking and Dagenham,21189,Crime
+Barking and Dagenham,59359,Poverty
+Barnet,31911,Crime
+Barnet,91043,Poverty
+Bexley,18323,Crime
+Bexley,39561,Poverty
+Bromley,31275,Crime
+Bromley,49664,Poverty
+Camden,25802,Crime
+Camden,83912,Poverty
+Croydon,38530,Crime
+Croydon,84776,Poverty
+Ealing,32841,Crime
+Ealing,100002,Poverty
+Enfield,32080,Crime
+Enfield,91314,Poverty
+Greenwich,30019,Crime
+Greenwich,74408,Poverty
+Hackney,34510,Crime
+Hackney,100679,Poverty
+Hammersmith and Fulham,23360,Crime
+Hammersmith and Fulham,57482,Poverty
+Haringey,32818,Crime
+Haringey,92012,Poverty
+Harrow,17909,Crime
+Harrow,57534,Poverty
+Havering,19185,Crime
+Havering,43827,Poverty
+Hillingdon,28616,Crime
+Hillingdon,67061,Poverty
+Hounslow,27920,Crime
+Hounslow,67695,Poverty
+Islington,30392,Crime
+Islington,81308,Poverty
+Kensington and Chelsea,24303,Crime
+Kensington and Chelsea,43735,Poverty
+Kingston upon Thames,13221,Crime
+Kingston upon Thames,31584,Poverty
+Lambeth,36265,Crime
+Lambeth,98472,Poverty
+Lewisham,30534,Crime
+Lewisham,78919,Poverty
+Merton,15181,Crime
+Merton,41273,Poverty
+Newham,37107,Crime
+Newham,120251,Poverty
+Redbridge,25402,Crime
+Redbridge,75964,Poverty
+Richmond upon Thames,13413,Crime
+Richmond upon Thames,29535,Poverty
+Southwark,38790,Crime
+Southwark,98349,Poverty
+Sutton,14871,Crime
+Sutton,32724,Poverty
+Tower Hamlets,35475,Crime
+Tower Hamlets,124730,Poverty
+Waltham Forest,25947,Crime
+Waltham Forest,77476,Poverty
+Wandsworth,27261,Crime
+Wandsworth,72039,Poverty
+Westminster,73603,Crime
+Westminster,75941,Poverty
